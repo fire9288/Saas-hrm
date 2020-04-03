@@ -9,9 +9,7 @@ import java.util.Date;
 
 /**
  * Created with IDEA
- * Author:xzengsf
- * Date:2018/10/20 14:23
- * Description:
+
  */
 @Service
 public class ResignationService {
