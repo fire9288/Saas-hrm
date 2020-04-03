@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7645ae61-0837-4474-962c-2ecf31d9f3bb" name="Default" comment="">
+    <list default="true" id="7645ae61-0837-4474-962c-2ecf31d9f3bb" name="Default" comment="A cloud file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/ArchiveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/ArchiveService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/PositiveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/PositiveService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/ResignationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/ResignationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/TransferPositionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/TransferPositionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/UserCompanyJobsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/UserCompanyJobsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ihrm_eureka/src/main/java/com/ihrm/eureka/Cloud.java" beforeDir="false" afterPath="$PROJECT_DIR$/ihrm_eureka/src/main/java/com/ihrm/eureka/Cloud.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/ihrm_eureka/src/test/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -54,8 +49,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ihrm_eureka/src/main/java/com/ihrm/eureka/Cloud.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="261">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,10 +95,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="fire9288" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Saas-hrm" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/dao/PermissionDao.java" />
         <option value="$PROJECT_DIR$/ihrm_system/src/main/java/com/ihrm/system/service/RoleService.java" />
         <option value="$PROJECT_DIR$/ihrm_system/src/main/java/SystemConfig.java" />
         <option value="$PROJECT_DIR$/ihrm_common/src/main/java/com/ihrm/common/interceptor/JwtInterceptor.java" />
@@ -150,6 +153,7 @@
         <option value="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/TransferPositionService.java" />
         <option value="$PROJECT_DIR$/ihrm_employee/src/main/java/com/ihrm/employee/service/UserCompanyJobsService.java" />
         <option value="$PROJECT_DIR$/ihrm_eureka/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/ihrm_eureka/src/main/java/com/ihrm/eureka/Cloud.java" />
       </list>
     </option>
   </component>
@@ -188,7 +192,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,6 +239,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,8 +266,12 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.ihrm.system.shiro.realm" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Saas-HRM\ihrm_employee\src\main\resources\templates" />
+      <recent name="F:\Saas-HRM\ihrm_employee\src\main\resources" />
+      <recent name="F:\Saas-HRM\ihrm_common_model\src\main\java\com\ihrm\domain" />
+      <recent name="F:\Saas-HRM" />
+      <recent name="F:\Saas-HRM\ihrm_system\src\main\java\com\ihrm\system" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ihrm.company" />
@@ -272,12 +280,8 @@
       <recent name="com.ihrm.system.service" />
       <recent name="com.ihrm.company.service" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Saas-HRM\ihrm_employee\src\main\resources\templates" />
-      <recent name="F:\Saas-HRM\ihrm_employee\src\main\resources" />
-      <recent name="F:\Saas-HRM\ihrm_common_model\src\main\java\com\ihrm\domain" />
-      <recent name="F:\Saas-HRM" />
-      <recent name="F:\Saas-HRM\ihrm_system\src\main\java\com\ihrm\system" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ihrm.system.shiro.realm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -463,11 +467,11 @@
       <item itemvalue="Application.CompanyApplication" />
       <item itemvalue="Application.SystemApplication" />
       <item itemvalue="Application.UserController" />
+      <item itemvalue="JUnit.Test.test" />
       <item itemvalue="Spring Boot.SystemApplication" />
       <item itemvalue="Spring Boot.CompanyApplication" />
       <item itemvalue="Spring Boot.EmployeeApplication" />
       <item itemvalue="Spring Boot.EureApplication" />
-      <item itemvalue="JUnit.Test.test" />
     </list>
     <recent_temporary>
       <list>
@@ -546,7 +550,8 @@
       <workItem from="1585360155454" duration="588000" />
       <workItem from="1585360790610" duration="10000" />
       <workItem from="1585454446477" duration="599000" />
-      <workItem from="1585911007808" duration="1494000" />
+      <workItem from="1585911007808" duration="2636000" />
+      <workItem from="1585913693824" duration="406000" />
     </task>
     <task id="LOCAL-00001" summary="A Test File to ihrm_eureka">
       <created>1585911754926</created>
@@ -562,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585911955451</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="A cloud file">
+      <created>1585912582135</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585912582135</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -577,7 +589,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154373000" />
+    <option name="totallyTimeSpent" value="155921000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -590,6 +602,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -598,17 +611,17 @@
       <window_info id="Web" order="4" sideWeight="0.50641024" side_tool="true" weight="0.19936034" />
       <window_info id="Favorites" order="5" sideWeight="0.50641024" side_tool="true" weight="0.19936034" />
       <window_info id="Capture Tool" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49358973" visible="true" weight="0.17110874" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49358973" visible="true" weight="0.17270789" />
       <window_info id="Structure" order="8" weight="0.24946696" />
       <window_info anchor="bottom" id="JRebel Console" order="0" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="1" />
       <window_info anchor="bottom" id="Run Dashboard" order="2" weight="0.22968581" />
       <window_info anchor="bottom" x="22" y="370" width="1876" height="299" id="Run" order="3" sideWeight="0.8997868" weight="0.32286024" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" sideWeight="0.4989339" weight="0.32936078" />
-      <window_info anchor="bottom" id="Version Control" order="5" visible="true" weight="0.3629469" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.83208954" visible="true" weight="0.3618635" />
       <window_info anchor="bottom" id="Spring" order="6" sideWeight="0.49946696" weight="0.34236187" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.10021322" side_tool="true" weight="0.37486458" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.16791044" side_tool="true" visible="true" weight="0.3618635" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
@@ -709,6 +722,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -1082,14 +1109,18 @@
     <entry file="file://$PROJECT_DIR$/ihrm_eureka/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ihrm_eureka/src/main/java/com/ihrm/eureka/Cloud.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="261">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
